@@ -1,0 +1,23 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "bla bla",
+  "main": "app-blocking.js",
+  "scripts": {
+    "start":"nodemon app-blocking.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalid93waleed93/play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalid93waleed93/play/issues"
+  },
+  "homepage": "https://github.com/khalid93waleed93/play#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
