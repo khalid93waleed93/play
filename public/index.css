@@ -40,6 +40,40 @@ button {
   border-radius: 16px;
   box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
 }
+.flex-row-b {
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+  position: relative;
+  width: 117px;
+  height: 12px;
+  margin: 8px 0 0 348px;
+  z-index: 22;
+}
+.language {
+  flex-shrink: 0;
+  position: relative;
+  width: 12px;
+  height: 12px;
+  background: url(./assets/images/0515e66f-9b2b-4a0d-8d81-01bc54bf3608.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 22;
+  margin-right: 5px;
+}
+.www-khalid-com-de {
+  flex-shrink: 0;
+  position: relative;
+  height: 11px;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 21;
+}
 .flex-row-ce {
   display: flex;
   align-items: center;
@@ -47,7 +81,7 @@ button {
   position: relative;
   width: 85px;
   height: 12px;
-  margin: 29px 0 0 348px;
+  margin: 9px 0 0 348px;
   z-index: 13;
 }
 .smartphone {
@@ -55,12 +89,12 @@ button {
   position: relative;
   width: 12px;
   height: 12px;
-  background: url(./assets/images/f3050488-4afa-4889-a4f7-18a61b5604ad.png)
+  background: url(./assets/images/b47a2938-e033-4450-b3c8-5c39940ff02e.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 13;
 }
-.plus {
+.phone-number {
   flex-shrink: 0;
   position: relative;
   height: 11px;
@@ -80,7 +114,7 @@ button {
   margin: -9px 0 0 14px;
   z-index: 17;
 }
-.geburtstag {
+.geburtjahr {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -129,7 +163,7 @@ button {
   background-size: cover;
   z-index: 3;
 }
-.text-3 {
+.text-4 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -152,7 +186,7 @@ button {
   height: 12.83%;
   top: 25%;
   left: 64.04%;
-  background: url(./assets/images/4437d2bf-0233-4717-b941-57fddbbf837b.png)
+  background: url(./assets/images/6d1fa25b-ff60-4004-afc1-1841a4e2d36f.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 14;
@@ -214,7 +248,7 @@ button {
   height: 12%;
   top: 53%;
   left: 64.23%;
-  background: url(./assets/images/5d1d61ce-d9aa-49c3-8b9b-fa39b8b4a0c8.png)
+  background: url(./assets/images/8cfee412-c24b-452d-ad19-db2664338bed.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 16;
@@ -236,7 +270,7 @@ button {
   white-space: nowrap;
   z-index: 8;
 }
-.name {
+.khalid-waleed-khalid {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -259,7 +293,7 @@ button {
   height: 12%;
   top: 83%;
   left: 64.23%;
-  background: url(./assets/images/8f185644-829e-40e1-ae60-f380aab53051.png)
+  background: url(./assets/images/8c5a29c9-d6a0-4c4f-9918-c492b6779e8c.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 15;
@@ -341,12 +375,12 @@ button {
   white-space: nowrap;
   z-index: 19;
 }
-.flex-row-ea {
+.flex-row-ecf {
   position: relative;
   width: 563px;
   height: 610px;
   margin: 9px 0 0 17px;
-  z-index: 98;
+  z-index: 103;
 }
 .frame-5 {
   position: absolute;
@@ -357,7 +391,7 @@ button {
   font-size: 0px;
   background: #ffffff;
   transform: translate(-79.75%, -50%);
-  z-index: 21;
+  z-index: 23;
   overflow: hidden;
   border-radius: 16px;
   box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
@@ -374,14 +408,14 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 22;
+  z-index: 24;
 }
 .flex-row-f {
   position: relative;
   width: 160px;
   height: 14px;
   margin: 12px 0 0 16px;
-  z-index: 52;
+  z-index: 54;
 }
 .ellipse {
   position: absolute;
@@ -389,13 +423,13 @@ button {
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/06d54c41-9956-4e09-a3f4-2c9553042cb8.png)
+  background: url(./assets/images/cc7487a2-ac53-46f2-bd4e-c0dd26bffbfd.png)
     no-repeat center;
   background-size: cover;
-  z-index: 51;
+  z-index: 53;
   border-radius: 50%;
 }
-.education-6 {
+.ausbildung {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -410,9 +444,9 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 52;
+  z-index: 54;
 }
-.date-range {
+.aug-jun {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -427,25 +461,25 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 50;
+  z-index: 52;
 }
 .flex-row-e {
   position: relative;
   width: 165px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 58;
+  z-index: 60;
 }
-.ellipse-7 {
+.ellipse-6 {
   position: absolute;
   width: 12px;
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/00163eb0-59db-43f8-893b-1e760d32fd65.png)
+  background: url(./assets/images/cc635d04-767d-4442-9bec-c6d556a8ac98.png)
     no-repeat center;
   background-size: cover;
-  z-index: 57;
+  z-index: 59;
   border-radius: 50%;
 }
 .umschulung {
@@ -463,9 +497,9 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 58;
+  z-index: 60;
 }
-.date-range-8 {
+.jan-jul {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -480,25 +514,25 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 56;
+  z-index: 58;
 }
 .flex-row-a {
   position: relative;
   width: 160px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 64;
+  z-index: 66;
 }
-.ellipse-9 {
+.ellipse-7 {
   position: absolute;
   width: 12px;
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/c2d2ab0c-63a9-48bf-9f8d-02c1bb7593a9.png)
+  background: url(./assets/images/65964374-9a6d-41a4-970d-05d09ab62d6d.png)
     no-repeat center;
   background-size: cover;
-  z-index: 63;
+  z-index: 65;
   border-radius: 50%;
 }
 .c-deutsch {
@@ -516,9 +550,9 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 64;
+  z-index: 66;
 }
-.date-range-a {
+.sep-dez {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -533,25 +567,25 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 62;
+  z-index: 64;
 }
 .flex-row-ed {
   position: relative;
   width: 148px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 70;
+  z-index: 72;
 }
-.ellipse-b {
+.ellipse-8 {
   position: absolute;
   width: 12px;
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/1e2ef988-ca91-4e55-90a5-903d4f3c3fca.png)
+  background: url(./assets/images/ee6621f8-679a-47a1-86c1-64b01b57b96a.png)
     no-repeat center;
   background-size: cover;
-  z-index: 69;
+  z-index: 71;
   border-radius: 50%;
 }
 .bachelor {
@@ -569,9 +603,9 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 70;
+  z-index: 72;
 }
-.date-range-c {
+.sep-jun {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -586,25 +620,25 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 68;
+  z-index: 70;
 }
-.flex-row-ce-d {
+.flex-row-ce-9 {
   position: relative;
   width: 195px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 76;
+  z-index: 78;
 }
-.ellipse-e {
+.ellipse-a {
   position: absolute;
   width: 12px;
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/cefa549a-d412-4b69-8416-d5964dd0f524.png)
+  background: url(./assets/images/e7949610-8b2a-42d4-837f-2f22149336d2.png)
     no-repeat center;
   background-size: cover;
-  z-index: 75;
+  z-index: 77;
   border-radius: 50%;
 }
 .fachhochschulreife {
@@ -622,9 +656,9 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 76;
+  z-index: 78;
 }
-.date-range-f {
+.sep-jun-b {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -639,7 +673,7 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 74;
+  z-index: 76;
 }
 .bagdad {
   display: block;
@@ -653,7 +687,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 77;
+  z-index: 79;
 }
 .skills {
   display: block;
@@ -667,16 +701,16 @@ button {
   line-height: 16px;
   text-align: left;
   white-space: nowrap;
-  z-index: 23;
+  z-index: 25;
 }
-.flex-row-10 {
+.flex-row-c {
   position: relative;
   width: 80px;
   height: 28px;
   margin: 1px 0 0 11px;
-  z-index: 37;
+  z-index: 39;
 }
-.image-11 {
+.image-d {
   position: absolute;
   width: 29px;
   height: 28px;
@@ -685,7 +719,7 @@ button {
   background: url(./assets/images/c2b583beb0ac35c783f305cde16cb6e7946fdbcb.png)
     no-repeat center;
   background-size: cover;
-  z-index: 37;
+  z-index: 39;
   border-radius: 3px;
 }
 .nodejs {
@@ -703,11 +737,11 @@ button {
   line-height: 16px;
   text-align: left;
   white-space: nowrap;
-  z-index: 32;
+  z-index: 34;
 }
-.specific-skills {
+.spezifische-kenntnisse {
   position: relative;
-  width: 390px;
+  width: 300px;
   height: 26px;
   margin: -8px 0 0 49px;
   font-family: Nunito, var(--default-font-family);
@@ -715,9 +749,11 @@ button {
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  z-index: 24;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 26;
 }
-.specific-skills-12 {
+.spezifische-kenntnisse-e {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -726,7 +762,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.specific-skills-13 {
+.gute-kenntnisse {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -735,7 +771,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.specific-skills-14 {
+.spezifische-kenntnisse-f {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -744,7 +780,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.good-skills {
+.orm-odm-restful-api {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -758,20 +794,20 @@ button {
   width: 102px;
   height: 28px;
   margin: 141px 0 0 11px;
-  z-index: 48;
+  z-index: 50;
 }
-.frame-15 {
+.frame-10 {
   position: absolute;
   width: 29px;
   height: 28px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 48;
+  z-index: 50;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-16 {
+.image-11 {
   position: absolute;
   width: 29px;
   height: 28px;
@@ -780,7 +816,7 @@ button {
   background: url(./assets/images/e830959c7e5abc1e5298b4b61730a7847b93d911.png)
     no-repeat center;
   background-size: cover;
-  z-index: 49;
+  z-index: 51;
 }
 .more-skills {
   display: flex;
@@ -797,27 +833,27 @@ button {
   line-height: 16px;
   text-align: left;
   white-space: nowrap;
-  z-index: 36;
+  z-index: 38;
 }
 .flex-row-dc {
   position: relative;
   width: 53px;
   height: 16px;
   margin: -5px 0 0 49px;
-  z-index: 44;
+  z-index: 46;
 }
-.frame-17 {
+.frame-12 {
   position: absolute;
   width: 16px;
   height: 16px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 44;
+  z-index: 46;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-18 {
+.image-13 {
   position: relative;
   width: 12px;
   height: 12px;
@@ -825,7 +861,7 @@ button {
   background: url(./assets/images/b37dc9489ae110bdcb4fc7e90f75467457cc11ad.png)
     no-repeat center;
   background-size: cover;
-  z-index: 45;
+  z-index: 47;
 }
 .database {
   display: flex;
@@ -842,7 +878,7 @@ button {
   line-height: 9.548px;
   text-align: left;
   white-space: nowrap;
-  z-index: 28;
+  z-index: 30;
 }
 .database-skills {
   position: relative;
@@ -854,9 +890,11 @@ button {
   font-weight: 700;
   line-height: 8.184px;
   text-align: left;
-  z-index: 30;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 32;
 }
-.good-knowledge {
+.good-sql-skills {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -874,7 +912,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.good-knowledge-19 {
+.good-sql-skills-14 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -883,7 +921,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.sql-skills-1a {
+.sql-skills-15 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -892,7 +930,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.good-knowledge-1b {
+.good-sql-skills-16 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -915,7 +953,7 @@ button {
   width: 53px;
   height: 16px;
   margin: -5px 0 0 49px;
-  z-index: 46;
+  z-index: 48;
 }
 .devops {
   position: absolute;
@@ -924,11 +962,11 @@ button {
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 46;
+  z-index: 48;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-1c {
+.image-17 {
   position: relative;
   width: 14px;
   height: 7.653px;
@@ -936,7 +974,7 @@ button {
   background: url(./assets/images/b9047f3c81c626806cd8aec89578573cd51e6855.png)
     no-repeat center;
   background-size: cover;
-  z-index: 47;
+  z-index: 49;
 }
 .others {
   display: flex;
@@ -953,11 +991,11 @@ button {
   line-height: 9.548px;
   text-align: left;
   white-space: nowrap;
-  z-index: 29;
+  z-index: 31;
 }
-.others-skills {
+.other-skills {
   position: relative;
-  width: 210px;
+  width: 228px;
   height: 32px;
   margin: -6px 0 0 69px;
   font-family: Nunito, var(--default-font-family);
@@ -965,9 +1003,11 @@ button {
   font-weight: 700;
   line-height: 8.184px;
   text-align: left;
-  z-index: 31;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 33;
 }
-.good-knowledge-1d {
+.good-git-skills {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -985,7 +1025,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.advanced-knowledge {
+.advanced-devops-skills {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -994,7 +1034,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.git-skills-1e {
+.git-skills-18 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1003,7 +1043,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.advanced-knowledge-1f {
+.advanced-devops-skills-19 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1012,7 +1052,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.other-skills {
+.basic-devops-skills {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1021,13 +1061,13 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.flex-row-e-20 {
+.flex-row-e-1a {
   position: absolute;
   top: 56px;
   right: 171px;
   bottom: 522px;
   left: 104px;
-  z-index: 55;
+  z-index: 57;
 }
 .line {
   position: absolute;
@@ -1035,11 +1075,11 @@ button {
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/75f160a7-919f-4e90-b8f7-6775c16ff642.png)
+  background: url(./assets/images/d8dd45e7-5321-48ef-9f59-c9146758ca82.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-2000%, -50%);
-  z-index: 55;
+  z-index: 57;
 }
 .viscircle-gmbh {
   display: flex;
@@ -1056,9 +1096,9 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 53;
+  z-index: 55;
 }
-.fachinformatiker-anwendungsentwicklung {
+.application-developer {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1073,7 +1113,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 54;
+  z-index: 56;
 }
 .flex-row-eefe {
   position: absolute;
@@ -1081,19 +1121,19 @@ button {
   right: 184px;
   bottom: 468px;
   left: 104px;
-  z-index: 61;
+  z-index: 63;
 }
-.line-21 {
+.line-1b {
   position: absolute;
   width: 2px;
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/c7c1a2d6-b901-4acb-ad64-28998eea768c.png)
+  background: url(./assets/images/11d9a482-cf22-43d5-b57a-66a3827be0a3.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-1675%, -50%);
-  z-index: 61;
+  z-index: 63;
 }
 .profil-gmbh {
   display: flex;
@@ -1110,9 +1150,9 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 59;
+  z-index: 61;
 }
-.fachinformatiker-abgebrochen {
+.dropped-application-developer {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1127,7 +1167,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 60;
+  z-index: 62;
 }
 .flex-row-d {
   position: absolute;
@@ -1135,21 +1175,21 @@ button {
   right: 143px;
   bottom: 414px;
   left: 104px;
-  z-index: 67;
+  z-index: 69;
 }
-.line-22 {
+.line-1c {
   position: absolute;
   width: 2px;
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/d084e709-5f64-4fff-a360-76e7831a0796.png)
+  background: url(./assets/images/2adab095-d556-406e-aa34-1740ed534cc3.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-2700%, -50%);
-  z-index: 67;
+  z-index: 69;
 }
-.versatile-roles {
+.span {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1164,9 +1204,9 @@ button {
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  z-index: 65;
+  z-index: 67;
 }
-.multiple-german-courses {
+.span-1d {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1181,7 +1221,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 66;
+  z-index: 68;
 }
 .flex-row-fa {
   position: absolute;
@@ -1189,21 +1229,21 @@ button {
   right: 148px;
   bottom: 360px;
   left: 104px;
-  z-index: 73;
+  z-index: 75;
 }
-.line-23 {
+.line-1e {
   position: absolute;
   width: 2px;
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/c1c05f30-0ff0-4bf6-ab1a-fedd09056a7b.png)
+  background: url(./assets/images/8c2a2741-dd16-4833-81c2-bee75677f381.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-2575%, -50%);
-  z-index: 73;
+  z-index: 75;
 }
-.university-of-baghdad {
+.span-1f {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1218,9 +1258,9 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 71;
+  z-index: 73;
 }
-.petroleum-engineering {
+.span-20 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1235,9 +1275,9 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 72;
+  z-index: 74;
 }
-.reactjs {
+.span-21 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1252,28 +1292,28 @@ button {
   line-height: 16px;
   text-align: left;
   white-space: nowrap;
-  z-index: 33;
+  z-index: 35;
 }
-.flex-row-24 {
+.flex-row-22 {
   position: absolute;
   width: 317px;
   height: 38px;
   top: 348px;
   left: 11px;
-  z-index: 38;
+  z-index: 40;
 }
-.frame-25 {
+.frame-23 {
   position: absolute;
   width: 29px;
   height: 29px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 38;
+  z-index: 40;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-26 {
+.image-24 {
   position: absolute;
   width: 30px;
   height: 29px;
@@ -1283,9 +1323,9 @@ button {
     no-repeat center;
   background-size: cover;
   transform: translate(-51.67%, -50%);
-  z-index: 39;
+  z-index: 41;
 }
-.specific-skills-27 {
+.specific-knowledge {
   position: absolute;
   width: 279px;
   height: 26px;
@@ -1296,9 +1336,11 @@ button {
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  z-index: 25;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 27;
 }
-.specific-skills-28 {
+.span-25 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1307,7 +1349,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.html-hooks {
+.span-26 {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1316,7 +1358,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.specific-skills-29 {
+.span-27 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1325,7 +1367,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.fetch-api-css-threejs {
+.span-28 {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1334,26 +1376,26 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.flex-row-2a {
+.flex-row-29 {
   position: absolute;
   width: 262px;
   height: 36px;
   top: 393px;
   left: 11px;
-  z-index: 40;
+  z-index: 42;
 }
-.frame-2b {
+.frame-2a {
   position: absolute;
   width: 29px;
   height: 26px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 40;
+  z-index: 42;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-2c {
+.image-2b {
   position: absolute;
   width: 29px;
   height: 26px;
@@ -1362,9 +1404,9 @@ button {
   background: url(./assets/images/4a4dbd43856534633f7a24fdb4ef4b36a75f8173.png)
     no-repeat center;
   background-size: cover;
-  z-index: 41;
+  z-index: 43;
 }
-.good-skills-java {
+.good-knowledge {
   position: absolute;
   width: 224px;
   height: 22px;
@@ -1375,9 +1417,11 @@ button {
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  z-index: 26;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 28;
 }
-.good-skills-2d {
+.span-2c {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1386,7 +1430,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.java {
+.span-2d {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1395,7 +1439,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.good-skills-2e {
+.span-2e {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1404,7 +1448,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.gradle-springdatamongodb-hibernate {
+.span-2f {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1413,7 +1457,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.spring-boot {
+.span-30 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1428,28 +1472,28 @@ button {
   line-height: 16px;
   text-align: left;
   white-space: nowrap;
-  z-index: 35;
+  z-index: 37;
 }
-.flex-row-b {
+.flex-row-b-31 {
   position: absolute;
   width: 309px;
   height: 38px;
   top: 438px;
   left: 11px;
-  z-index: 42;
+  z-index: 44;
 }
-.frame-2f {
+.frame-32 {
   position: absolute;
   width: 32px;
   height: 30px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 42;
+  z-index: 44;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-30 {
+.image-33 {
   position: absolute;
   width: 37px;
   height: 34px;
@@ -1458,9 +1502,9 @@ button {
   background: url(./assets/images/a50d786a7a97f7e674cde02b59ceff072678689b.png)
     no-repeat center;
   background-size: cover;
-  z-index: 43;
+  z-index: 45;
 }
-.advanced-skills-python {
+.advanced-knowledge {
   position: absolute;
   width: 272px;
   height: 24px;
@@ -1471,9 +1515,11 @@ button {
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  z-index: 27;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 29;
 }
-.advanced-skills {
+.span-34 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1482,7 +1528,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.python3-rpi-gpio {
+.span-35 {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1491,7 +1537,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.advanced-skills-31 {
+.span-36 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1500,7 +1546,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.grundkenntnisse {
+.raspbian-linux-android-studio {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1524,18 +1570,18 @@ button {
   line-height: 16px;
   text-align: left;
   white-space: nowrap;
-  z-index: 34;
+  z-index: 36;
 }
-.frame-32 {
+.frame-37 {
   position: absolute;
   width: 194px;
-  height: 170px;
+  height: 419px;
   top: 50%;
   left: 50%;
   font-size: 0px;
   background: #ffffff;
-  transform: translate(45.1%, -179.41%);
-  z-index: 98;
+  transform: translate(45.1%, -72.79%);
+  z-index: 103;
   overflow: hidden;
   border-radius: 16px;
   box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
@@ -1544,7 +1590,7 @@ button {
   display: block;
   position: relative;
   height: 11px;
-  margin: 16px 0 0 16px;
+  margin: 7px 0 0 16px;
   color: #99d3ff;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
@@ -1552,24 +1598,56 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 99;
+  z-index: 104;
 }
-.uber-mich-33 {
+.hallo-khalid-waleed-khalid {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   position: relative;
   width: 162px;
-  height: 110px;
-  margin: 2px 0 0 16px;
+  height: 104px;
+  margin: 3px 0 0 16px;
   color: #727272;
   font-family: Nunito Sans, var(--default-font-family);
-  font-size: 7px;
+  font-size: 8px;
   font-weight: 700;
-  line-height: 9.548px;
+  line-height: 10.912px;
   text-align: left;
   text-overflow: ellipsis;
-  z-index: 101;
+  z-index: 106;
+  overflow: hidden;
+}
+.erfahrungen {
+  display: block;
+  position: relative;
+  height: 11px;
+  margin: 0 0 0 16px;
+  color: #99d3ff;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 108;
+}
+.ausbildung-fachinformatiker {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  width: 162px;
+  height: 248px;
+  margin: 3px 0 0 16px;
+  color: #727272;
+  font-family: Nunito Sans, var(--default-font-family);
+  font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+  text-overflow: ellipsis;
+  z-index: 109;
   overflow: hidden;
 }
 .hobby {
@@ -1584,13 +1662,13 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 100;
+  z-index: 105;
 }
-.hobby-34 {
+.mathe-ratsel-kochen-wandern {
   display: block;
   position: relative;
   height: 11px;
-  margin: 2px 0 0 16px;
+  margin: 3px 0 0 16px;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
@@ -1598,27 +1676,27 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 102;
+  z-index: 107;
 }
-.frame-35 {
+.frame-38 {
   position: absolute;
   width: 194px;
-  height: 424px;
+  height: 175px;
   top: 50%;
   left: 50%;
   font-size: 0px;
   background: #ffffff;
-  transform: translate(45.1%, -28.07%);
-  z-index: 78;
+  transform: translate(43.04%, 70.86%);
+  z-index: 80;
   overflow: hidden;
   border-radius: 16px;
   box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
 }
-.erfahrungen {
+.projekte {
   display: block;
   position: relative;
   height: 11px;
-  margin: 5px 0 0 14px;
+  margin: 4px 0 0 14px;
   color: #99d3ff;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
@@ -1626,127 +1704,29 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 79;
-}
-.frame-36 {
-  position: relative;
-  width: 162px;
-  height: 168px;
-  margin: 5px 0 0 14px;
-  font-size: 0px;
-  background: #ffffff;
-  border: 0.1px solid #c0c0c0;
   z-index: 81;
-  overflow: hidden;
-  border-radius: 6px;
-  box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
 }
-.erfahrungen-37 {
-  display: block;
+.erstellung-webshop-hosting {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
   position: relative;
-  height: 8px;
-  margin: 8px 0 0 8px;
+  width: 179px;
+  height: 110px;
+  margin: -6px 0 0 9px;
   color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 82;
-}
-.erfahrungen-38 {
-  display: block;
-  position: relative;
-  height: 11px;
-  margin: 4.1px 0 0 1px;
-  color: #b5b5b5;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  white-space: nowrap;
-  z-index: 83;
-}
-.erfahrungen-39 {
-  display: block;
-  position: relative;
-  height: 8px;
-  margin: 4.1px 0 0 8px;
-  color: #99d3ff;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 84;
-}
-.erfahrungen-3a {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: relative;
-  width: 146px;
-  height: 120px;
-  margin: 3.1px 0 0 8px;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 7px;
-  font-weight: 700;
-  line-height: 9.548px;
-  text-align: left;
-  z-index: 85;
-}
-.frame-3b {
-  position: relative;
-  width: 162px;
-  height: 152px;
-  margin: 8px 0 0 16px;
-  font-size: 0px;
-  background: #ffffff;
-  border: 0.1px solid #c0c0c0;
-  z-index: 86;
-  overflow: hidden;
-  border-radius: 6px;
-  box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
-}
-.erfahrungen-3c {
-  display: block;
-  position: relative;
-  height: 8px;
-  margin: 4px 0 0 10px;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 87;
-}
-.erfahrungen-3d {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: relative;
-  width: 158px;
-  height: 130px;
-  margin: 7.1px 0 0 3px;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 7px;
-  font-weight: 700;
-  line-height: 9.548px;
-  text-align: left;
-  z-index: 88;
+  z-index: 92;
 }
 .sprachkenntnisse {
   display: block;
   position: relative;
   height: 11px;
-  margin: 6px 0 0 16px;
+  margin: 1px 0 0 14px;
   color: #99d3ff;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
@@ -1754,9 +1734,135 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 80;
+  z-index: 93;
 }
-.sprachkenntnisse-3e {
+.sprachkenntnisse-39 {
+  display: block;
+  position: relative;
+  height: 11px;
+  margin: 224px 0 0 16px;
+  color: #99d3ff;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 82;
+}
+.deutsch {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  height: 8px;
+  top: 137px;
+  left: 18px;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 8px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 94;
+}
+.frame-3a {
+  position: absolute;
+  width: 127px;
+  height: 4px;
+  top: 139px;
+  left: 53px;
+  background: #c9dbe8;
+  z-index: 97;
+  overflow: hidden;
+  border-radius: 17px;
+}
+.rectangle {
+  position: relative;
+  width: 108px;
+  height: 4px;
+  margin: 0 0 0 0;
+  background: #1c9fff;
+  z-index: 98;
+  border-radius: 19px;
+}
+.englisch {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  height: 8px;
+  top: 150px;
+  left: 18px;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 8px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 95;
+}
+.frame-3b {
+  position: absolute;
+  width: 127px;
+  height: 4px;
+  top: 152px;
+  left: 53px;
+  background: #c9dbe8;
+  z-index: 99;
+  overflow: hidden;
+  border-radius: 17px;
+}
+.rectangle-3c {
+  position: relative;
+  width: 92px;
+  height: 4px;
+  margin: 0 0 0 0;
+  background: #1c9fff;
+  z-index: 100;
+  border-radius: 14px;
+}
+.arabisch {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  height: 8px;
+  top: 163px;
+  left: 18px;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 8px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 96;
+}
+.frame-3d {
+  position: absolute;
+  width: 127px;
+  height: 4px;
+  top: 165px;
+  left: 53px;
+  background: #c9dbe8;
+  z-index: 101;
+  overflow: hidden;
+  border-radius: 17px;
+}
+.rectangle-3e {
+  position: absolute;
+  width: 127px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background: #1c9fff;
+  z-index: 102;
+  border-radius: 17px;
+}
+.deutsch-3f {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1771,29 +1877,29 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 89;
+  z-index: 83;
 }
-.frame-3f {
+.frame-40 {
   position: absolute;
   width: 127px;
   height: 4px;
   top: 374px;
   left: 51px;
   background: #c9dbe8;
-  z-index: 92;
+  z-index: 86;
   overflow: hidden;
   border-radius: 17px;
 }
-.rectangle {
+.rectangle-41 {
   position: relative;
   width: 108px;
   height: 4px;
   margin: 0 0 0 0;
   background: #1c9fff;
-  z-index: 93;
+  z-index: 87;
   border-radius: 19px;
 }
-.sprachkenntnisse-40 {
+.englisch-42 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1808,29 +1914,29 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 90;
+  z-index: 84;
 }
-.rectangle-41 {
+.frame-43 {
   position: absolute;
   width: 127px;
   height: 4px;
   top: 387px;
   left: 51px;
   background: #c9dbe8;
-  z-index: 94;
+  z-index: 88;
   overflow: hidden;
   border-radius: 17px;
 }
-.rectangle-42 {
+.rectangle-44 {
   position: relative;
   width: 92px;
   height: 4px;
   margin: 0 0 0 0;
   background: #1c9fff;
-  z-index: 95;
+  z-index: 89;
   border-radius: 14px;
 }
-.sprachkenntnisse-43 {
+.arabisch-45 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1845,36 +1951,51 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 91;
+  z-index: 85;
 }
-.rectangle-44 {
+.frame-46 {
   position: absolute;
   width: 127px;
   height: 4px;
   top: 400px;
   left: 51px;
   background: #c9dbe8;
-  z-index: 96;
+  z-index: 90;
   overflow: hidden;
   border-radius: 17px;
 }
-.rectangle-45 {
+.rectangle-47 {
   position: absolute;
   width: 127px;
   height: 4px;
   top: 0;
   left: 0;
   background: #1c9fff;
-  z-index: 97;
+  z-index: 91;
   border-radius: 17px;
 }
-
-
 .button-container {
   position: absolute;
-  left: -150px; /* Adjust as needed */
-  top: 20px;
+  left: 50%; /* Center horizontally */
+  top: 3px;
+  transform: translateX(-80%); 
   display: flex;
-  flex-direction: column;
   gap: 10px;
+}
+.custom-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #36a0ed;
+  color: white;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+  background-color: #1c9fff;
 }
