@@ -55,7 +55,7 @@ button {
   position: relative;
   width: 12px;
   height: 12px;
-  background: url(./assets/images/0515e66f-9b2b-4a0d-8d81-01bc54bf3608.png)
+  background: url(./assets/images/52320311-a64d-4155-a513-943360ef4276.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 22;
@@ -89,12 +89,12 @@ button {
   position: relative;
   width: 12px;
   height: 12px;
-  background: url(./assets/images/b47a2938-e033-4450-b3c8-5c39940ff02e.png)
+  background: url(./assets/images/ff2799b2-f817-47bb-bbca-09cc9d7cf982.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 13;
 }
-.phone-number {
+.plus {
   flex-shrink: 0;
   position: relative;
   height: 11px;
@@ -114,7 +114,7 @@ button {
   margin: -9px 0 0 14px;
   z-index: 17;
 }
-.geburtjahr {
+.geburtsjahr {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -186,12 +186,12 @@ button {
   height: 12.83%;
   top: 25%;
   left: 64.04%;
-  background: url(./assets/images/6d1fa25b-ff60-4004-afc1-1841a4e2d36f.png)
+  background: url(./assets/images/5f00f514-cd94-4602-95d4-f7afc3e9d9a2.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 14;
 }
-.email {
+.khaledkh-gmx-de {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -248,7 +248,7 @@ button {
   height: 12%;
   top: 53%;
   left: 64.23%;
-  background: url(./assets/images/8cfee412-c24b-452d-ad19-db2664338bed.png)
+  background: url(./assets/images/c25b2b66-62ca-40e4-bb8a-44e679fc42ff.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 16;
@@ -293,7 +293,7 @@ button {
   height: 12%;
   top: 83%;
   left: 64.23%;
-  background: url(./assets/images/8c5a29c9-d6a0-4c4f-9918-c492b6779e8c.png)
+  background: url(./assets/images/710e3541-333a-4936-9f70-8848b808f1ad.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 15;
@@ -375,12 +375,12 @@ button {
   white-space: nowrap;
   z-index: 19;
 }
-.flex-row-ecf {
+.flex-row-ea {
   position: relative;
-  width: 563px;
+  width: 570px;
   height: 610px;
   margin: 9px 0 0 17px;
-  z-index: 103;
+  z-index: 80;
 }
 .frame-5 {
   position: absolute;
@@ -390,13 +390,13 @@ button {
   left: 50%;
   font-size: 0px;
   background: #ffffff;
-  transform: translate(-79.75%, -50%);
+  transform: translate(-80.74%, -50%);
   z-index: 23;
   overflow: hidden;
   border-radius: 16px;
   box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
 }
-.education {
+.ausbildung-studium-weiterbildung {
   display: block;
   position: relative;
   height: 11px;
@@ -415,7 +415,7 @@ button {
   width: 160px;
   height: 14px;
   margin: 12px 0 0 16px;
-  z-index: 54;
+  z-index: 51;
 }
 .ellipse {
   position: absolute;
@@ -423,10 +423,10 @@ button {
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/cc7487a2-ac53-46f2-bd4e-c0dd26bffbfd.png)
+  background: url(./assets/images/ceaa01fc-ac97-4bf6-8480-cfbbcca239fa.png)
     no-repeat center;
   background-size: cover;
-  z-index: 53;
+  z-index: 50;
   border-radius: 50%;
 }
 .ausbildung {
@@ -444,7 +444,7 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 54;
+  z-index: 51;
 }
 .aug-jun {
   display: flex;
@@ -461,14 +461,14 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 52;
+  z-index: 49;
 }
 .flex-row-e {
   position: relative;
   width: 165px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 60;
+  z-index: 57;
 }
 .ellipse-6 {
   position: absolute;
@@ -476,10 +476,10 @@ button {
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/cc635d04-767d-4442-9bec-c6d556a8ac98.png)
+  background: url(./assets/images/da3bf92c-a526-4485-aee2-e08f1aa294b6.png)
     no-repeat center;
   background-size: cover;
-  z-index: 59;
+  z-index: 56;
   border-radius: 50%;
 }
 .umschulung {
@@ -497,7 +497,7 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 60;
+  z-index: 57;
 }
 .jan-jul {
   display: flex;
@@ -514,14 +514,14 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 58;
+  z-index: 55;
 }
 .flex-row-a {
   position: relative;
   width: 160px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 66;
+  z-index: 63;
 }
 .ellipse-7 {
   position: absolute;
@@ -529,10 +529,10 @@ button {
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/65964374-9a6d-41a4-970d-05d09ab62d6d.png)
+  background: url(./assets/images/99821b1d-fd04-4093-86c5-55eca780d0eb.png)
     no-repeat center;
   background-size: cover;
-  z-index: 65;
+  z-index: 62;
   border-radius: 50%;
 }
 .c-deutsch {
@@ -550,7 +550,7 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 66;
+  z-index: 63;
 }
 .sep-dez {
   display: flex;
@@ -567,14 +567,14 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 64;
+  z-index: 61;
 }
 .flex-row-ed {
   position: relative;
   width: 148px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 72;
+  z-index: 69;
 }
 .ellipse-8 {
   position: absolute;
@@ -582,10 +582,10 @@ button {
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/ee6621f8-679a-47a1-86c1-64b01b57b96a.png)
+  background: url(./assets/images/cdb63a14-7f38-4cdc-ae06-af4ab72c932f.png)
     no-repeat center;
   background-size: cover;
-  z-index: 71;
+  z-index: 68;
   border-radius: 50%;
 }
 .bachelor {
@@ -603,7 +603,7 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 72;
+  z-index: 69;
 }
 .sep-jun {
   display: flex;
@@ -620,14 +620,14 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 70;
+  z-index: 67;
 }
 .flex-row-ce-9 {
   position: relative;
   width: 195px;
   height: 14px;
   margin: 40px 0 0 16px;
-  z-index: 78;
+  z-index: 75;
 }
 .ellipse-a {
   position: absolute;
@@ -635,10 +635,10 @@ button {
   height: 12px;
   top: 0;
   left: 82px;
-  background: url(./assets/images/e7949610-8b2a-42d4-837f-2f22149336d2.png)
+  background: url(./assets/images/8a5948e6-2809-4d30-bc49-7957577582fb.png)
     no-repeat center;
   background-size: cover;
-  z-index: 77;
+  z-index: 74;
   border-radius: 50%;
 }
 .fachhochschulreife {
@@ -656,7 +656,7 @@ button {
   line-height: 13.64px;
   text-align: left;
   white-space: nowrap;
-  z-index: 78;
+  z-index: 75;
 }
 .sep-jun-b {
   display: flex;
@@ -673,7 +673,7 @@ button {
   line-height: 8px;
   text-align: left;
   white-space: nowrap;
-  z-index: 76;
+  z-index: 73;
 }
 .bagdad {
   display: block;
@@ -687,7 +687,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 79;
+  z-index: 76;
 }
 .skills {
   display: block;
@@ -703,311 +703,62 @@ button {
   white-space: nowrap;
   z-index: 25;
 }
-.flex-row-c {
-  position: relative;
-  width: 80px;
-  height: 28px;
-  margin: 1px 0 0 11px;
-  z-index: 39;
-}
-.image-d {
-  position: absolute;
-  width: 29px;
-  height: 28px;
-  top: 0;
-  left: 0;
-  background: url(./assets/images/c2b583beb0ac35c783f305cde16cb6e7946fdbcb.png)
-    no-repeat center;
-  background-size: cover;
-  z-index: 39;
-  border-radius: 3px;
-}
-.nodejs {
+.flex-row-dcd {
   display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  height: 16px;
-  top: 0;
-  left: 38px;
-  color: #c0c0c0;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 12px;
-  font-weight: 700;
-  line-height: 16px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 34;
-}
-.spezifische-kenntnisse {
+  align-items: center;
+  justify-content: space-between;
   position: relative;
-  width: 300px;
-  height: 26px;
-  margin: -8px 0 0 49px;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  text-overflow: initial;
-  white-space: nowrap;
-  z-index: 26;
-}
-.spezifische-kenntnisse-e {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 200;
-  line-height: 10.912px;
-  text-align: left;
-}
-.gute-kenntnisse {
-  position: relative;
-  color: #666666;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-}
-.spezifische-kenntnisse-f {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 200;
-  line-height: 10.912px;
-  text-align: left;
-}
-.orm-odm-restful-api {
-  position: relative;
-  color: #666666;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-}
-.flex-row-cd {
-  position: relative;
-  width: 102px;
-  height: 28px;
-  margin: 141px 0 0 11px;
-  z-index: 50;
-}
-.frame-10 {
-  position: absolute;
-  width: 29px;
-  height: 28px;
-  top: 0;
-  left: 0;
-  background: #27282c;
-  z-index: 50;
-  overflow: hidden;
-  border-radius: 3px;
-}
-.image-11 {
-  position: absolute;
-  width: 29px;
-  height: 28px;
-  top: 0;
-  left: 0;
-  background: url(./assets/images/e830959c7e5abc1e5298b4b61730a7847b93d911.png)
-    no-repeat center;
-  background-size: cover;
-  z-index: 51;
-}
-.more-skills {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  height: 16px;
-  top: 3px;
-  left: 38px;
-  color: #c0c0c0;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 12px;
-  font-weight: 700;
-  line-height: 16px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 38;
-}
-.flex-row-dc {
-  position: relative;
-  width: 53px;
-  height: 16px;
-  margin: -5px 0 0 49px;
-  z-index: 46;
-}
-.frame-12 {
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  top: 0;
-  left: 0;
-  background: #27282c;
-  z-index: 46;
-  overflow: hidden;
-  border-radius: 3px;
-}
-.image-13 {
-  position: relative;
-  width: 12px;
-  height: 12px;
-  margin: 2px 0 0 2px;
-  background: url(./assets/images/b37dc9489ae110bdcb4fc7e90f75467457cc11ad.png)
-    no-repeat center;
-  background-size: cover;
+  width: 94px;
+  height: 29px;
+  margin: 235px 0 0 10px;
   z-index: 47;
 }
-.database {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  height: 10px;
-  top: 0;
-  left: 20px;
-  color: #c0c0c0;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 7px;
-  font-weight: 700;
-  line-height: 9.548px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 30;
-}
-.database-skills {
-  position: relative;
-  width: 270px;
-  height: 32px;
-  margin: -6px 0 0 69px;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8.184px;
-  text-align: left;
-  text-overflow: initial;
-  white-space: nowrap;
-  z-index: 32;
-}
-.good-sql-skills {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 200;
-  line-height: 8.184px;
-  text-align: left;
-}
-.sql-skills {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8.184px;
-  text-align: left;
-}
-.good-sql-skills-14 {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 200;
-  line-height: 8.184px;
-  text-align: left;
-}
-.sql-skills-15 {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8.184px;
-  text-align: left;
-}
-.good-sql-skills-16 {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 200;
-  line-height: 8.184px;
-  text-align: left;
-}
-.other-database-skills {
-  position: relative;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8.184px;
-  text-align: left;
-}
-.flex-row-dcd {
-  position: relative;
-  width: 53px;
-  height: 16px;
-  margin: -5px 0 0 49px;
-  z-index: 48;
-}
 .devops {
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  top: 0;
-  left: 0;
+  flex-shrink: 0;
+  position: relative;
+  width: 29px;
+  height: 29px;
   background: #27282c;
-  z-index: 48;
+  z-index: 47;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-17 {
+.image-c {
   position: relative;
-  width: 14px;
-  height: 7.653px;
+  width: 29px;
+  height: 15.853px;
   margin: 4px 0 0 1px;
   background: url(./assets/images/b9047f3c81c626806cd8aec89578573cd51e6855.png)
     no-repeat center;
   background-size: cover;
-  z-index: 49;
+  z-index: 48;
 }
 .others {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  height: 10px;
-  top: 0;
-  left: 20px;
+  flex-shrink: 0;
+  position: relative;
+  height: 16px;
   color: #c0c0c0;
   font-family: Nunito, var(--default-font-family);
-  font-size: 7px;
+  font-size: 12px;
   font-weight: 700;
-  line-height: 9.548px;
+  line-height: 16px;
   text-align: left;
   white-space: nowrap;
   z-index: 31;
 }
-.other-skills {
+.gute-kenntnisse {
   position: relative;
-  width: 228px;
-  height: 32px;
-  margin: -6px 0 0 69px;
+  width: 300px;
+  height: 36px;
+  margin: -6px 0 0 48px;
   font-family: Nunito, var(--default-font-family);
   font-size: 6px;
   font-weight: 700;
   line-height: 8.184px;
   text-align: left;
-  text-overflow: initial;
-  white-space: nowrap;
   z-index: 33;
 }
-.good-git-skills {
+.gute-kenntnisse-d {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1016,7 +767,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.git-skills {
+.nbsp {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1025,7 +776,16 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.advanced-devops-skills {
+.git-docker-compose-nginx {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.8px;
+  text-align: left;
+}
+.fortgeschrittene-kenntnisse {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1034,7 +794,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.git-skills-18 {
+.nbsp-e {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1043,7 +803,16 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.advanced-devops-skills-19 {
+.git-docker-compose-nginx-f {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.8px;
+  text-align: left;
+}
+.fortgeschrittene-kenntnisse-10 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1052,7 +821,7 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.basic-devops-skills {
+.nbsp-11 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1061,13 +830,22 @@ button {
   line-height: 8.184px;
   text-align: left;
 }
-.flex-row-e-1a {
+.git-docker-compose-nginx-12 {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.8px;
+  text-align: left;
+}
+.flex-row-e-13 {
   position: absolute;
   top: 56px;
   right: 171px;
   bottom: 522px;
   left: 104px;
-  z-index: 57;
+  z-index: 54;
 }
 .line {
   position: absolute;
@@ -1075,11 +853,11 @@ button {
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/d8dd45e7-5321-48ef-9f59-c9146758ca82.png)
+  background: url(./assets/images/88b928b6-5176-4894-a98c-afe5193a3ebd.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-2000%, -50%);
-  z-index: 57;
+  z-index: 54;
 }
 .viscircle-gmbh {
   display: flex;
@@ -1096,9 +874,9 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 55;
+  z-index: 52;
 }
-.application-developer {
+.fachinformatiker-anwendungsentwicklung {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1113,7 +891,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 56;
+  z-index: 53;
 }
 .flex-row-eefe {
   position: absolute;
@@ -1121,19 +899,19 @@ button {
   right: 184px;
   bottom: 468px;
   left: 104px;
-  z-index: 63;
+  z-index: 60;
 }
-.line-1b {
+.line-14 {
   position: absolute;
   width: 2px;
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/11d9a482-cf22-43d5-b57a-66a3827be0a3.png)
+  background: url(./assets/images/39737a66-d365-4780-ac9f-fc5deec3f430.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-1675%, -50%);
-  z-index: 63;
+  z-index: 60;
 }
 .profil-gmbh {
   display: flex;
@@ -1150,9 +928,9 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 61;
+  z-index: 58;
 }
-.dropped-application-developer {
+.fachinformatiker-abgebrochen {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1167,7 +945,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 62;
+  z-index: 59;
 }
 .flex-row-d {
   position: absolute;
@@ -1175,21 +953,21 @@ button {
   right: 143px;
   bottom: 414px;
   left: 104px;
-  z-index: 69;
+  z-index: 66;
 }
-.line-1c {
+.line-15 {
   position: absolute;
   width: 2px;
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/2adab095-d556-406e-aa34-1740ed534cc3.png)
+  background: url(./assets/images/580fed46-3792-4275-9ac4-4518a5be09c4.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-2700%, -50%);
-  z-index: 69;
+  z-index: 66;
 }
-.span {
+.vielseitige-berufsrollen {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1204,9 +982,9 @@ button {
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  z-index: 67;
+  z-index: 64;
 }
-.span-1d {
+.mehrere-deutschkurse {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1221,7 +999,7 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 68;
+  z-index: 65;
 }
 .flex-row-fa {
   position: absolute;
@@ -1229,21 +1007,21 @@ button {
   right: 148px;
   bottom: 360px;
   left: 104px;
-  z-index: 75;
+  z-index: 72;
 }
-.line-1e {
+.line-16 {
   position: absolute;
   width: 2px;
   height: 34px;
   top: 50%;
   left: 50%;
-  background: url(./assets/images/8c2a2741-dd16-4833-81c2-bee75677f381.png)
+  background: url(./assets/images/7696fd54-54ca-4b30-bb7b-c65e135c1cb9.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-2575%, -50%);
-  z-index: 75;
+  z-index: 72;
 }
-.span-1f {
+.university-of-baghdad {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1258,9 +1036,9 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 73;
+  z-index: 70;
 }
-.span-20 {
+.petroleum-engineering {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1275,9 +1053,106 @@ button {
   line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 74;
+  z-index: 71;
 }
-.span-21 {
+.flex-row-f-17 {
+  position: absolute;
+  width: 337px;
+  height: 42px;
+  top: 300px;
+  left: 11px;
+  z-index: 38;
+}
+.image-18 {
+  position: absolute;
+  width: 29px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/c2b583beb0ac35c783f305cde16cb6e7946fdbcb.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 38;
+  border-radius: 3px;
+}
+.spezifische-kenntnisse {
+  position: absolute;
+  width: 300px;
+  height: 26px;
+  top: 16px;
+  left: 37px;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 26;
+}
+.spezifische-kenntnisse-19 {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 200;
+  line-height: 10.912px;
+  text-align: left;
+}
+.java-typescript-expressjs {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.spezifische-kenntnisse-1a {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 200;
+  line-height: 10.912px;
+  text-align: left;
+}
+.nbsp-1b {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.java-typescript-expressjs-1c {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.nodejs {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  height: 16px;
+  top: 300px;
+  left: 49px;
+  color: #c0c0c0;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 34;
+}
+.reactjs {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1294,26 +1169,26 @@ button {
   white-space: nowrap;
   z-index: 35;
 }
-.flex-row-22 {
+.flex-row-1d {
   position: absolute;
-  width: 317px;
+  width: 316px;
   height: 38px;
   top: 348px;
   left: 11px;
-  z-index: 40;
+  z-index: 39;
 }
-.frame-23 {
+.frame-1e {
   position: absolute;
   width: 29px;
   height: 29px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 40;
+  z-index: 39;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-24 {
+.image-1f {
   position: absolute;
   width: 30px;
   height: 29px;
@@ -1323,14 +1198,14 @@ button {
     no-repeat center;
   background-size: cover;
   transform: translate(-51.67%, -50%);
-  z-index: 41;
+  z-index: 40;
 }
 .specific-knowledge {
   position: absolute;
   width: 279px;
   height: 26px;
   top: 12px;
-  left: 38px;
+  left: 37px;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
   font-weight: 700;
@@ -1340,7 +1215,7 @@ button {
   white-space: nowrap;
   z-index: 27;
 }
-.span-25 {
+.specific-knowledge-20 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1349,16 +1224,16 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-26 {
+.specific-knowledge-21 {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
+  font-size: 9px;
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
 }
-.span-27 {
+.specific-knowledge-22 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1367,7 +1242,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-28 {
+.empty {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1376,26 +1251,35 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.flex-row-29 {
+.specific-knowledge-23 {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.flex-row-24 {
   position: absolute;
-  width: 262px;
+  width: 261px;
   height: 36px;
   top: 393px;
   left: 11px;
-  z-index: 42;
+  z-index: 41;
 }
-.frame-2a {
+.frame-25 {
   position: absolute;
   width: 29px;
   height: 26px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 42;
+  z-index: 41;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-2b {
+.image-26 {
   position: absolute;
   width: 29px;
   height: 26px;
@@ -1404,14 +1288,14 @@ button {
   background: url(./assets/images/4a4dbd43856534633f7a24fdb4ef4b36a75f8173.png)
     no-repeat center;
   background-size: cover;
-  z-index: 43;
+  z-index: 42;
 }
 .good-knowledge {
   position: absolute;
   width: 224px;
   height: 22px;
   top: 14px;
-  left: 38px;
+  left: 37px;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
   font-weight: 700;
@@ -1421,7 +1305,7 @@ button {
   white-space: nowrap;
   z-index: 28;
 }
-.span-2c {
+.good-knowledge-27 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1430,7 +1314,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-2d {
+.empty-28 {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1439,7 +1323,16 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-2e {
+.java {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.good-knowledge-29 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1448,7 +1341,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-2f {
+.empty-2a {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1457,7 +1350,16 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-30 {
+.java-2b {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.spring-boot {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1474,26 +1376,26 @@ button {
   white-space: nowrap;
   z-index: 37;
 }
-.flex-row-b-31 {
+.flex-row-b-2c {
   position: absolute;
   width: 309px;
   height: 38px;
   top: 438px;
   left: 11px;
-  z-index: 44;
+  z-index: 43;
 }
-.frame-32 {
+.frame-2d {
   position: absolute;
   width: 32px;
   height: 30px;
   top: 0;
   left: 0;
   background: #27282c;
-  z-index: 44;
+  z-index: 43;
   overflow: hidden;
   border-radius: 3px;
 }
-.image-33 {
+.image-2e {
   position: absolute;
   width: 37px;
   height: 34px;
@@ -1502,7 +1404,7 @@ button {
   background: url(./assets/images/a50d786a7a97f7e674cde02b59ceff072678689b.png)
     no-repeat center;
   background-size: cover;
-  z-index: 45;
+  z-index: 44;
 }
 .advanced-knowledge {
   position: absolute;
@@ -1519,7 +1421,7 @@ button {
   white-space: nowrap;
   z-index: 29;
 }
-.span-34 {
+.advanced-knowledge-2f {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1528,7 +1430,7 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-35 {
+.empty-30 {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
@@ -1537,7 +1439,16 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.span-36 {
+.python-rpi-gpio {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.advanced-knowledge-31 {
   position: relative;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
@@ -1546,11 +1457,20 @@ button {
   line-height: 10.912px;
   text-align: left;
 }
-.raspbian-linux-android-studio {
+.empty-32 {
   position: relative;
   color: #666666;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+}
+.python-rpi-gpio-33 {
+  position: relative;
+  color: #666666;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
@@ -1572,209 +1492,259 @@ button {
   white-space: nowrap;
   z-index: 36;
 }
-.frame-37 {
+.flex-row-dc {
   position: absolute;
-  width: 194px;
-  height: 419px;
+  width: 102px;
+  height: 30.444px;
+  top: 482px;
+  left: 8px;
+  z-index: 45;
+}
+.database {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  height: 16px;
+  top: 0;
+  left: 41px;
+  color: #c0c0c0;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 30;
+}
+.frame-34 {
+  position: absolute;
+  width: 32px;
+  height: 28.444px;
+  top: 2px;
+  left: 0;
+  background: #27282c;
+  z-index: 45;
+  overflow: hidden;
+  border-radius: 3px;
+}
+.image-35 {
+  position: relative;
+  width: 29px;
+  height: 29px;
+  margin: 2px 0 0 2px;
+  background: url(./assets/images/b37dc9489ae110bdcb4fc7e90f75467457cc11ad.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 46;
+}
+.sql-developer {
+  position: absolute;
+  width: 303px;
+  height: 43px;
+  top: 498px;
+  left: 48px;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 8.184px;
+  text-align: left;
+  z-index: 32;
+}
+.gute-kenntnisse-36 {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 200;
+  line-height: 8.184px;
+  text-align: left;
+}
+.sql {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 8.184px;
+  text-align: left;
+}
+.sql-developer-37 {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.8px;
+  text-align: left;
+}
+.gute-kenntnisse-38 {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 200;
+  line-height: 8.184px;
+  text-align: left;
+}
+.sql-39 {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 8.184px;
+  text-align: left;
+}
+.sql-developer-3a {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.8px;
+  text-align: left;
+}
+.gute-kenntnisse-3b {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 200;
+  line-height: 8.184px;
+  text-align: left;
+}
+.sql-developer-3c {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 10.8px;
+  text-align: left;
+}
+.text-4f {
+  position: relative;
+  color: #727272;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 8.184px;
+  text-align: left;
+}
+.frame-3d {
+  position: absolute;
+  width: 201px;
+  height: 215px;
   top: 50%;
   left: 50%;
   font-size: 0px;
   background: #ffffff;
-  transform: translate(45.1%, -72.79%);
-  z-index: 103;
-  overflow: hidden;
-  border-radius: 16px;
-  box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
-}
-.uber-mich {
-  display: block;
-  position: relative;
-  height: 11px;
-  margin: 7px 0 0 16px;
-  color: #99d3ff;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 104;
-}
-.hallo-khalid-waleed-khalid {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: relative;
-  width: 162px;
-  height: 104px;
-  margin: 3px 0 0 16px;
-  color: #727272;
-  font-family: Nunito Sans, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  text-overflow: ellipsis;
-  z-index: 106;
-  overflow: hidden;
-}
-.erfahrungen {
-  display: block;
-  position: relative;
-  height: 11px;
-  margin: 0 0 0 16px;
-  color: #99d3ff;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 108;
-}
-.ausbildung-fachinformatiker {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: relative;
-  width: 162px;
-  height: 248px;
-  margin: 3px 0 0 16px;
-  color: #727272;
-  font-family: Nunito Sans, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  text-overflow: ellipsis;
-  z-index: 109;
-  overflow: hidden;
-}
-.hobby {
-  display: block;
-  position: relative;
-  height: 11px;
-  margin: 0 0 0 16px;
-  color: #99d3ff;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 105;
-}
-.mathe-ratsel-kochen-wandern {
-  display: block;
-  position: relative;
-  height: 11px;
-  margin: 3px 0 0 16px;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 107;
-}
-.frame-38 {
-  position: absolute;
-  width: 194px;
-  height: 175px;
-  top: 50%;
-  left: 50%;
-  font-size: 0px;
-  background: #ffffff;
-  transform: translate(43.04%, 70.86%);
+  transform: translate(41.79%, -141.86%);
   z-index: 80;
   overflow: hidden;
   border-radius: 16px;
   box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
 }
-.projekte {
+.ueber-mich {
   display: block;
   position: relative;
-  height: 11px;
-  margin: 4px 0 0 14px;
+  height: 12px;
+  margin: 7px 0 0 16px;
   color: #99d3ff;
   font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
+  font-size: 9px;
   font-weight: 700;
-  line-height: 10.912px;
+  line-height: 12px;
   text-align: left;
   white-space: nowrap;
   z-index: 81;
 }
-.erstellung-webshop-hosting {
+.text-51 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   position: relative;
-  width: 179px;
-  height: 110px;
-  margin: -6px 0 0 9px;
+  width: 178px;
+  height: 105px;
+  margin: 2px 0 0 16px;
+  color: #727272;
+  font-family: Nunito Sans, var(--default-font-family);
+  font-size: 8px;
+  font-weight: 700;
+  line-height: 10.912px;
+  text-align: left;
+  text-overflow: ellipsis;
+  z-index: 83;
+  overflow: hidden;
+}
+.sprachkenntnisse {
+  display: block;
+  position: relative;
+  height: 12px;
+  margin: -7px 0 0 16px;
+  color: #99d3ff;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 12px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 85;
+}
+.hobby {
+  display: block;
+  position: relative;
+  height: 12px;
+  margin: 50px 0 0 16px;
+  color: #99d3ff;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 12px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 82;
+}
+.mathe-raetsel {
+  display: block;
+  position: relative;
+  height: 11px;
+  margin: 3px 0 0 16px;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
   font-size: 8px;
   font-weight: 700;
   line-height: 10.912px;
   text-align: left;
-  z-index: 92;
-}
-.sprachkenntnisse {
-  display: block;
-  position: relative;
-  height: 11px;
-  margin: 1px 0 0 14px;
-  color: #99d3ff;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
   white-space: nowrap;
-  z-index: 93;
-}
-.sprachkenntnisse-39 {
-  display: block;
-  position: relative;
-  height: 11px;
-  margin: 224px 0 0 16px;
-  color: #99d3ff;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 8px;
-  font-weight: 700;
-  line-height: 10.912px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 82;
+  z-index: 84;
 }
 .deutsch {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  height: 8px;
-  top: 137px;
-  left: 18px;
+  height: 11px;
+  top: 140px;
+  left: 16px;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
+  font-size: 8px;
   font-weight: 700;
-  line-height: 8px;
+  line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 94;
+  z-index: 86;
 }
-.frame-3a {
+.frame-3e {
   position: absolute;
   width: 127px;
   height: 4px;
-  top: 139px;
-  left: 53px;
+  top: 142px;
+  left: 51px;
   background: #c9dbe8;
-  z-index: 97;
+  z-index: 89;
   overflow: hidden;
   border-radius: 17px;
 }
@@ -1784,7 +1754,7 @@ button {
   height: 4px;
   margin: 0 0 0 0;
   background: #1c9fff;
-  z-index: 98;
+  z-index: 90;
   border-radius: 19px;
 }
 .englisch {
@@ -1792,36 +1762,36 @@ button {
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  height: 8px;
-  top: 150px;
-  left: 18px;
+  height: 11px;
+  top: 153px;
+  left: 16px;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
+  font-size: 8px;
   font-weight: 700;
-  line-height: 8px;
+  line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 95;
+  z-index: 87;
 }
-.frame-3b {
+.frame-3f {
   position: absolute;
   width: 127px;
   height: 4px;
-  top: 152px;
-  left: 53px;
+  top: 155px;
+  left: 51px;
   background: #c9dbe8;
-  z-index: 99;
+  z-index: 91;
   overflow: hidden;
   border-radius: 17px;
 }
-.rectangle-3c {
+.rectangle-40 {
   position: relative;
   width: 92px;
   height: 4px;
   margin: 0 0 0 0;
   background: #1c9fff;
-  z-index: 100;
+  z-index: 92;
   border-radius: 14px;
 }
 .arabisch {
@@ -1829,151 +1799,86 @@ button {
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  height: 8px;
-  top: 163px;
-  left: 18px;
+  height: 11px;
+  top: 166px;
+  left: 16px;
   color: #727272;
   font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
+  font-size: 8px;
   font-weight: 700;
-  line-height: 8px;
+  line-height: 10.912px;
   text-align: left;
   white-space: nowrap;
-  z-index: 96;
+  z-index: 88;
 }
-.frame-3d {
+.frame-41 {
   position: absolute;
   width: 127px;
   height: 4px;
-  top: 165px;
-  left: 53px;
+  top: 168px;
+  left: 51px;
   background: #c9dbe8;
-  z-index: 101;
+  z-index: 93;
   overflow: hidden;
   border-radius: 17px;
 }
-.rectangle-3e {
+.rectangle-42 {
   position: absolute;
   width: 127px;
   height: 4px;
   top: 0;
   left: 0;
   background: #1c9fff;
-  z-index: 102;
+  z-index: 94;
   border-radius: 17px;
-}
-.deutsch-3f {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  height: 8px;
-  top: 372px;
-  left: 16px;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 83;
-}
-.frame-40 {
-  position: absolute;
-  width: 127px;
-  height: 4px;
-  top: 374px;
-  left: 51px;
-  background: #c9dbe8;
-  z-index: 86;
-  overflow: hidden;
-  border-radius: 17px;
-}
-.rectangle-41 {
-  position: relative;
-  width: 108px;
-  height: 4px;
-  margin: 0 0 0 0;
-  background: #1c9fff;
-  z-index: 87;
-  border-radius: 19px;
-}
-.englisch-42 {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  height: 8px;
-  top: 385px;
-  left: 16px;
-  color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
-  font-weight: 700;
-  line-height: 8px;
-  text-align: left;
-  white-space: nowrap;
-  z-index: 84;
 }
 .frame-43 {
   position: absolute;
-  width: 127px;
-  height: 4px;
-  top: 387px;
-  left: 51px;
-  background: #c9dbe8;
-  z-index: 88;
+  width: 201px;
+  height: 384px;
+  top: 50%;
+  left: 50%;
+  font-size: 0px;
+  background: #ffffff;
+  transform: translate(41.79%, -22.14%);
+  z-index: 77;
   overflow: hidden;
-  border-radius: 17px;
+  border-radius: 16px;
+  box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.1);
 }
-.rectangle-44 {
+.erfahrungen-weitere-skills {
+  display: block;
   position: relative;
-  width: 92px;
-  height: 4px;
-  margin: 0 0 0 0;
-  background: #1c9fff;
-  z-index: 89;
-  border-radius: 14px;
+  height: 12px;
+  margin: 7px 0 0 10px;
+  color: #99d3ff;
+  font-family: Nunito, var(--default-font-family);
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 12px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 78;
 }
-.arabisch-45 {
+.text-59 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
-  position: absolute;
-  height: 8px;
-  top: 398px;
-  left: 16px;
+  position: relative;
+  width: 189px;
+  height: 352px;
+  margin: 4px 0 0 4px;
   color: #727272;
-  font-family: Nunito, var(--default-font-family);
-  font-size: 6px;
+  font-family: Nunito Sans, var(--default-font-family);
+  font-size: 8.300000190734863px;
   font-weight: 700;
-  line-height: 8px;
+  line-height: 11.321px;
   text-align: left;
-  white-space: nowrap;
-  z-index: 85;
-}
-.frame-46 {
-  position: absolute;
-  width: 127px;
-  height: 4px;
-  top: 400px;
-  left: 51px;
-  background: #c9dbe8;
-  z-index: 90;
+  text-overflow: ellipsis;
+  z-index: 79;
   overflow: hidden;
-  border-radius: 17px;
 }
-.rectangle-47 {
-  position: absolute;
-  width: 127px;
-  height: 4px;
-  top: 0;
-  left: 0;
-  background: #1c9fff;
-  z-index: 91;
-  border-radius: 17px;
-}
+
 .button-container {
   position: absolute;
   left: 50%; /* Center horizontally */
